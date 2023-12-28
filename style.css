@@ -8,7 +8,6 @@
     text-align: center;
     border: 1px solid black;
     padding: 1px;
-    margin-bottom: -20px;
     width: 100%;
     display: contents;
 }
@@ -30,4 +29,5 @@
     color: #647eff;
     font-family :great-vibes;
     font-size: 180%;
+    margin-top: -4px;
 }
