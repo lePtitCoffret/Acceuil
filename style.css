@@ -2,26 +2,17 @@
     background-color: #fff2e1;
     font-family: cursive;
     font-size: 110%; 
-}
-
-header{
-    
-    font-family :myFirstFont;
-    font-size: 90%;
 } 
 #d1{
     font-family :greatVibes;
     text-align: center;
     border: 1px solid black;
     padding: 1px;
-    margin: -80px 0 0 0;
+    margin-bottom: -20px;
     width: 100%;
-    display: contents
+    display: contents;
 }
 
-#d2{
-    
-}
 
 
 #logo {
@@ -32,14 +23,11 @@ header{
     right: 0;
 }
 @font-face {
-  font-family: myFirstFont;
+  font-family: great-vibes;
   src: url(fonts/GreatVibes-Regular.ttf);
 }
-
-
-
 #title {
     color: #647eff;
-    font-family :myFirstFont;
+    font-family :great-vibes;
     font-size: 180%;
 }
