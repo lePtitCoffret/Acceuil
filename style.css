@@ -1,11 +1,19 @@
-
-/* 
 *{
     background-color: greenyellow;
 }
+
 header{
-    text-align: center;
+    
     font-family: cursive;
     font-size: 200%;
 } 
-*/
+#d1{
+    text-align: center;
+    border: 1px solid black;
+    padding: 1px;
+     margin: 0px 0 0 0;
+}
+
+#d2{
+    
+}
