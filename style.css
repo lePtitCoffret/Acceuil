@@ -2,7 +2,9 @@
     background-color: #fff2e1;
     font-family: cursive;
     font-size: 110%; 
+    font-family: sunset_time;
 } 
+/* ----divs---- */
 #d1{
     font-family :greatVibes;
     text-align: center;
@@ -11,8 +13,24 @@
     width: 100%;
     display: contents;
 }
+#navi{
+    
+}
 
+nav{
+    text-align: center;
+}
+table{
+    text-align: center;
+    border-spacing: 50px
+}
 
+#title {
+    color: #647eff;
+    font-family :great-vibes;
+    font-size: 180%;
+    margin-top: -4px;
+}
 
 #logo {
     height: 100px;
@@ -21,13 +39,22 @@
     bottom: 0;
     right: 0;
 }
+
+/* ----fonts---- */
 @font-face {
   font-family: great-vibes;
   src: url(fonts/GreatVibes-Regular.ttf);
 }
-#title {
-    color: #647eff;
-    font-family :great-vibes;
-    font-size: 180%;
-    margin-top: -4px;
+@font-face{
+    font-family : sunset_time;
+    src: url(fonts/Sunset_Time.otf);
+}
+a {
+    text-decoration: none;
+    color:#829cd2;
+    
+}
+
+#articles {
+    padding-top: 20px;
 }
