@@ -52,6 +52,14 @@ table{
     font-family : sunset_time;
     src: url(fonts/Sunset_Time.otf);
 }
+@font-face{
+	font-family : date;
+	src : url(fonts/Bigdate.otf);
+}
+
+
+
+
 a {
     text-decoration: none;
     color:#829cd2;
@@ -102,4 +110,13 @@ a {
   right: 25px;
   font-size: 36px;
   margin-left: 50px;
+}
+
+#date {
+	position: absolute;
+	right:10px;
+	top: 10px;
+	font-family: date;
+	
+	
 }
